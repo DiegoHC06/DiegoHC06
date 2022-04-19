@@ -13,6 +13,5 @@
 > - [Instagram](https://www.instagram.com/Diego_hc06)
 
 
-DiegoHC06/DiegoHC06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
+<!-- DiegoHC06/DiegoHC06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes. -->
