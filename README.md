@@ -1,7 +1,13 @@
-- 👋 Hi, I’m **@DiegoHC06**
-- 👀 I’m interested in ... Aprender nuevas cosas y la informatica
-- 🌱 I’m currently learning ... programacion, lenguaje python,java, html,css,javascript
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hola, soy **@DiegoHC06**
+- 👀 Estoy interesado en Aprender nuevas cosas y la informatica
+- 🌱 Actualmente estoy aprendiendo logica de programación, 
+- Lenguajes:  
+- - Python 
+- - JAVA  
+- - HTML 
+- - CSS 
+- - JavaScript
+
 
 
 ---
