@@ -1,7 +1,7 @@
 -  Hola, soy **@DiegoHC06** 👋 :smile:
 
 - 👀 Estoy interesado en Aprender nuevas cosas y la informatica
-- 🌱 Actualmente estoy aprendiendo logica de programación, 
+- 🌱 Actualmente estoy aprendiendo logica de programación, ando en un proyecto personal.  
 - Lenguajes:  
 - - Python 
 - - JAVA  
