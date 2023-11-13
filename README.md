@@ -20,6 +20,6 @@
 > - [Instagram](https://www.instagram.com/Diego_hc06)
 
 ---
-<a href="https://app.daily.dev/diegohuh"><img src="https://api.daily.dev/devcards/657046c463f4459da160f6d57887659e.png?r=x1c" width="400" alt="Diego huh cob's Dev Card"/></a>
+ 
 <!-- DiegoHC06/DiegoHC06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->
