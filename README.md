@@ -1,7 +1,7 @@
- # Hola, mi nombres es **DIEGO HUH** 👋 :smile:
+ # Hola, mi nombre es **DIEGO HUH** 👋 :smile:
 
 - Estoy interesado en Aprender nuevas cosas y la informatica.
-- Soy ingeniero en sistemas computacionales, altamente motivo.
+- Soy ingeniero en sistemas computacionales, altamente motivo
 - Estoy trabajando constante en mis habilidades técnicas.
 
 
