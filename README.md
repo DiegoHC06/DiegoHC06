@@ -1,7 +1,8 @@
  # Hola, mi nombres es **DIEGO HUH** 👋 :smile:
 
-- 👀 Estoy interesado en Aprender nuevas cosas y la informatica
-- 🌱 Actualmente estoy aprendiendo logica de programación, ando en un proyecto personal.
+- Estoy interesado en Aprender nuevas cosas y la informatica.
+- Soy ingeniero en sistemas computacionales, altamente motivo.
+- Estoy trabajando constante en mis habilidades técnicas.
 
 
 ---
@@ -16,15 +17,10 @@
 
 
 ## Languages and Tools: 
-- - Python 
-- - JAVA  
-- - HTML 
-- - CSS 
-- - JavaScript
-- - DJango
-- - Flask
-- - Reflex
-
+| Vscode | Git |||
+|--|--|--|--|
+| Python | JAVA | HTML | CSS |
+| JavaScript | DJango | Flask | Reflex |
 
 
 
